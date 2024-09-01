@@ -70,7 +70,7 @@
     <Error Condition="!Exists('packages\Tesseract.5.2.0\build\Tesseract.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Tesseract.5.2.0\build\Tesseract.targets'))" />
   </Target>
   <PropertyGroup>
-    <PreBuildEvent>robocopy "$(ProjectDir)tessdata" "$(TargetDir)tessdata" /E /LOG:"$(TargetDir)robocopy.log"
+    <PreBuildEvent>robocopy "$(ProjectDir)tessdata" "$(TargetDir)tessdata"
 </PreBuildEvent>
   </PropertyGroup>
 </Project>

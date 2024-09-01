@@ -1,6 +1,10 @@
 # Auto-Accept
 A C# program that automatically accepts matches for CS2
 
+## Possible issues
+
+- Only tested on 1080 since I'm lazy, and only likely works on 1080.
+
 ## Requirements
 
 - C# ? lol!: D

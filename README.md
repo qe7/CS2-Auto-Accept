@@ -11,7 +11,7 @@ A C# program that automatically accepts matches for CS2
 
 ## Install
 
-1. Goto [latest release](https://github.com/qe7/Auto-Accept/releases/latest)
+1. Goto [latest release](https://github.com/qe7/CS2-Auto-Accept/releases/latest)
 2. Download from assets below
 3. Extract from rar archive
 4. Run
